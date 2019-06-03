@@ -1,0 +1,127 @@
+<svg id="settings" display="none">
+  <use id="settings__pool-size" href="#tumblerview">
+    <use id="item0" href="#tumbler-item" class="item">
+      <text id="content">10</text>
+    </use>
+    <use id="item1" href="#tumbler-item" class="item">
+      <text id="content">11</text>
+    </use>
+    <use id="item2" href="#tumbler-item" class="item">
+      <text id="content">12</text>
+    </use>
+    <use id="item3" href="#tumbler-item" class="item">
+      <text id="content">13</text>
+    </use>
+    <use id="item4" href="#tumbler-item" class="item">
+      <text id="content">14</text>
+    </use>
+    <use id="item5" href="#tumbler-item" class="item">
+      <text id="content">15</text>
+    </use>
+    <use id="item6" href="#tumbler-item" class="item">
+      <text id="content">16</text>
+    </use>
+    <use id="item7" href="#tumbler-item" class="item">
+      <text id="content">17</text>
+    </use>
+    <use id="item8" href="#tumbler-item" class="item">
+      <text id="content">18</text>
+    </use>
+    <use id="item9" href="#tumbler-item" class="item">
+      <text id="content">19</text>
+    </use>
+    <use id="item10" href="#tumbler-item" class="item">
+      <text id="content">20</text>
+    </use>
+    <use id="item11" href="#tumbler-item" class="item">
+      <text id="content">21</text>
+    </use>
+    <use id="item12" href="#tumbler-item" class="item">
+      <text id="content">22</text>
+    </use>
+    <use id="item13" href="#tumbler-item" class="item">
+      <text id="content">23</text>
+    </use>
+    <use id="item14" href="#tumbler-item" class="item">
+      <text id="content">24</text>
+    </use>
+    <use id="item15" href="#tumbler-item" class="item">
+      <text id="content">25</text>
+    </use>
+    <use id="item16" href="#tumbler-item" class="item">
+      <text id="content">26</text>
+    </use>
+    <use id="item17" href="#tumbler-item" class="item">
+      <text id="content">27</text>
+    </use>
+    <use id="item18" href="#tumbler-item" class="item">
+      <text id="content">28</text>
+    </use>
+    <use id="item19" href="#tumbler-item" class="item">
+      <text id="content">29</text>
+    </use>
+    <use id="item20" href="#tumbler-item" class="item">
+      <text id="content">30</text>
+    </use>
+    <use id="item21" href="#tumbler-item" class="item">
+      <text id="content">31</text>
+    </use>
+    <use id="item22" href="#tumbler-item" class="item">
+      <text id="content">32</text>
+    </use>
+    <use id="item23" href="#tumbler-item" class="item">
+      <text id="content">33</text>
+    </use>
+    <use id="item24" href="#tumbler-item" class="item">
+      <text id="content">34</text>
+    </use>
+    <use id="item25" href="#tumbler-item" class="item">
+      <text id="content">35</text>
+    </use>
+    <use id="item26" href="#tumbler-item" class="item">
+      <text id="content">36</text>
+    </use>
+    <use id="item27" href="#tumbler-item" class="item">
+      <text id="content">37</text>
+    </use>
+    <use id="item28" href="#tumbler-item" class="item">
+      <text id="content">38</text>
+    </use>
+    <use id="item29" href="#tumbler-item" class="item">
+      <text id="content">39</text>
+    </use>
+    <use id="item30" href="#tumbler-item" class="item">
+      <text id="content">40</text>
+    </use>
+    <use id="item31" href="#tumbler-item" class="item">
+      <text id="content">41</text>
+    </use>
+    <use id="item32" href="#tumbler-item" class="item">
+      <text id="content">42</text>
+    </use>
+    <use id="item33" href="#tumbler-item" class="item">
+      <text id="content">43</text>
+    </use>
+    <use id="item34" href="#tumbler-item" class="item">
+      <text id="content">44</text>
+    </use>
+    <use id="item35" href="#tumbler-item" class="item">
+      <text id="content">45</text>
+    </use>
+    <use id="item36" href="#tumbler-item" class="item">
+      <text id="content">46</text>
+    </use>
+    <use id="item37" href="#tumbler-item" class="item">
+      <text id="content">47</text>
+    </use>
+    <use id="item38" href="#tumbler-item" class="item">
+      <text id="content">48</text>
+    </use>
+    <use id="item39" href="#tumbler-item" class="item">
+      <text id="content">49</text>
+    </use>
+    <use id="item40" href="#tumbler-item" class="item">
+      <text id="content">50</text>
+    </use>
+  </use>
+</svg>

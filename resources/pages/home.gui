@@ -1,0 +1,12 @@
+<svg id="home" display="none">
+  <text x="50%" y="50%" display="inherit">Easy Swim!</text>
+  <use id="home__settings" href="#combo-button-upper-left" shortcut="none">
+    <set href="combo-button-icon" attributeName="href" to="icons/btn_settings.png"/>
+    <set href="combo-button-icon-press" attributeName="href" to="icons/btn_settings_press.png"/>
+  </use>
+  <use id="home__start" href="#combo-button-upper-right" shortcut="none">
+    <set href="combo-button-icon" attributeName="href" to="icons/btn_flag.png"/>
+    <set href="combo-button-icon-press" attributeName="href" to="icons/btn_flag.png"/>
+    <set href="combo-button-stroke" attributeName="display" to="inline"/>
+  </use>
+</svg>

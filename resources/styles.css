@@ -1,0 +1,64 @@
+image.icon {
+  fill: "fb-white";
+}
+
+/* Debugging: Turn all the bg color to gray */
+.background {
+  width: 100%;
+  height: 100%;
+  fill: gray;
+}
+
+.danger {
+  fill: "fb-red";
+}
+
+.success {
+  fill: "fb-mint";
+}
+
+.main {
+  fill: "fb-blue";
+}
+
+.neutral {
+  fill:  "fb-white";
+}
+
+#swim__bot__label {
+  font-size: 18;
+  x: 0;
+  y: 100%;
+}
+#swim__bot {
+  font-size: 60;
+  x: 0;
+  y: 60;
+}
+#swim__top__label {
+  font-size: 18;
+  x: 0;
+  y: 100%;
+}
+#swim__top {
+  font-size: 60;
+  x: 0;
+  y: 60;
+}
+#swim__main {
+  font-size: 100;
+  x: 0;
+  y: 100;
+}
+#swim__main__label {
+  font-size: 20;
+  x: 0;
+  y: 100%;
+}
+
+#tumbler { y: 50%-60; }
+.item text { 
+  font-size: 104;
+  fill: 'fb-blue';
+  x: 15;
+}

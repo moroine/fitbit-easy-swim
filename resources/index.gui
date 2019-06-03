@@ -1,0 +1,5 @@
+<svg class="background">
+  <link rel="import" href="pages/home.gui" />
+  <link rel="import" href="pages/settings.gui" />
+  <link rel="import" href="pages/swim.gui" />
+</svg>

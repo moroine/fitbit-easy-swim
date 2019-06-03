@@ -1,0 +1,38 @@
+{
+  "name": "easy-swim",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.1",
+    "@fitbit/sdk-cli": "^1.6.0"
+  },
+  "fitbit": {
+    "appUUID": "02526d51-78b3-4532-9ab3-487caec107d0",
+    "appType": "app",
+    "appDisplayName": "Easy Swim",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_exercise",
+      "access_activity",
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {},
+    "defaultLanguage": "en-US"
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  },
+  "dependencies": {
+    "fitbit-logger": "0.0.6",
+    "fitbit-preferences": "^1.0.0",
+    "io-ts": "^1.8.6"
+  }
+}
